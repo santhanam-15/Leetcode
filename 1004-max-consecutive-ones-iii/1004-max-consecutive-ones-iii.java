@@ -14,9 +14,4 @@ class Solution {
         }
         return Max;
     }
-    static {
-        for(int i=0;i<100;i++){
-            longestOnes(new int[]{0,0,0},4);
-        }
-    };
 }
