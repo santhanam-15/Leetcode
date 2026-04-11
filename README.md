@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2352-equal-row-and-column-pairs](https://github.com/pskiskpskisk/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2751-robot-collisions](https://github.com/pskiskpskisk/Leetcode/tree/master/2751-robot-collisions) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/pskiskpskisk/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/pskiskpskisk/Leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/pskiskpskisk/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/pskiskpskisk/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/pskiskpskisk/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/pskiskpskisk/Leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Two Pointers
 |  |
 | ------- |
