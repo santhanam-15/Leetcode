@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/pskiskpskisk/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0389-find-the-difference](https://github.com/pskiskpskisk/Leetcode/tree/master/0389-find-the-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/pskiskpskisk/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1657-determine-if-two-strings-are-close](https://github.com/pskiskpskisk/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/pskiskpskisk/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/pskiskpskisk/Leetcode/tree/master/0389-find-the-difference) |
 | [1268-search-suggestions-system](https://github.com/pskiskpskisk/Leetcode/tree/master/1268-search-suggestions-system) |
 | [1657-determine-if-two-strings-are-close](https://github.com/pskiskpskisk/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/pskiskpskisk/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/pskiskpskisk/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0389-find-the-difference](https://github.com/pskiskpskisk/Leetcode/tree/master/0389-find-the-difference) |
 | [0394-decode-string](https://github.com/pskiskpskisk/Leetcode/tree/master/0394-decode-string) |
 | [0649-dota2-senate](https://github.com/pskiskpskisk/Leetcode/tree/master/0649-dota2-senate) |
 | [1268-search-suggestions-system](https://github.com/pskiskpskisk/Leetcode/tree/master/1268-search-suggestions-system) |
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/pskiskpskisk/Leetcode/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/pskiskpskisk/Leetcode/tree/master/0338-counting-bits) |
+| [0389-find-the-difference](https://github.com/pskiskpskisk/Leetcode/tree/master/0389-find-the-difference) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/pskiskpskisk/Leetcode/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 ## Interactive
 |  |
