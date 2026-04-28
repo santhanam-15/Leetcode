@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/pskiskpskisk/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2352-equal-row-and-column-pairs](https://github.com/pskiskpskisk/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2751-robot-collisions](https://github.com/pskiskpskisk/Leetcode/tree/master/2751-robot-collisions) |
+| [3046-split-the-array](https://github.com/pskiskpskisk/Leetcode/tree/master/3046-split-the-array) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/pskiskpskisk/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/pskiskpskisk/Leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Hash Table
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/pskiskpskisk/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/pskiskpskisk/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/pskiskpskisk/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
+| [3046-split-the-array](https://github.com/pskiskpskisk/Leetcode/tree/master/3046-split-the-array) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/pskiskpskisk/Leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Two Pointers
 |  |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1657-determine-if-two-strings-are-close](https://github.com/pskiskpskisk/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
+| [3046-split-the-array](https://github.com/pskiskpskisk/Leetcode/tree/master/3046-split-the-array) |
 ## Matrix
 |  |
 | ------- |
