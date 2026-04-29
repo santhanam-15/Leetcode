@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/pskiskpskisk/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/pskiskpskisk/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [3046-split-the-array](https://github.com/pskiskpskisk/Leetcode/tree/master/3046-split-the-array) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/pskiskpskisk/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/pskiskpskisk/Leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Two Pointers
 |  |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/pskiskpskisk/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1657-determine-if-two-strings-are-close](https://github.com/pskiskpskisk/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [2390-removing-stars-from-a-string](https://github.com/pskiskpskisk/Leetcode/tree/master/2390-removing-stars-from-a-string) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/pskiskpskisk/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Binary Search
 |  |
 | ------- |
