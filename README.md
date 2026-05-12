@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2352-equal-row-and-column-pairs](https://github.com/pskiskpskisk/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2751-robot-collisions](https://github.com/pskiskpskisk/Leetcode/tree/master/2751-robot-collisions) |
 | [3046-split-the-array](https://github.com/pskiskpskisk/Leetcode/tree/master/3046-split-the-array) |
+| [3184-count-pairs-that-form-a-complete-day-i](https://github.com/pskiskpskisk/Leetcode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/pskiskpskisk/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/pskiskpskisk/Leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Hash Table
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2352-equal-row-and-column-pairs](https://github.com/pskiskpskisk/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [3046-split-the-array](https://github.com/pskiskpskisk/Leetcode/tree/master/3046-split-the-array) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/pskiskpskisk/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3184-count-pairs-that-form-a-complete-day-i](https://github.com/pskiskpskisk/Leetcode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/pskiskpskisk/Leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Two Pointers
 |  |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1657-determine-if-two-strings-are-close](https://github.com/pskiskpskisk/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [3046-split-the-array](https://github.com/pskiskpskisk/Leetcode/tree/master/3046-split-the-array) |
+| [3184-count-pairs-that-form-a-complete-day-i](https://github.com/pskiskpskisk/Leetcode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 ## Matrix
 |  |
 | ------- |
