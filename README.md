@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/pskiskpskisk/Leetcode/tree/master/0389-find-the-difference) |
 | [0394-decode-string](https://github.com/pskiskpskisk/Leetcode/tree/master/0394-decode-string) |
 | [0649-dota2-senate](https://github.com/pskiskpskisk/Leetcode/tree/master/0649-dota2-senate) |
+| [0796-rotate-string](https://github.com/pskiskpskisk/Leetcode/tree/master/0796-rotate-string) |
 | [1268-search-suggestions-system](https://github.com/pskiskpskisk/Leetcode/tree/master/1268-search-suggestions-system) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/pskiskpskisk/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1657-determine-if-two-strings-are-close](https://github.com/pskiskpskisk/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
@@ -214,4 +215,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/pskiskpskisk/Leetcode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/pskiskpskisk/Leetcode/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/pskiskpskisk/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/pskiskpskisk/Leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
