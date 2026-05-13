@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/pskiskpskisk/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [3110-score-of-a-string](https://github.com/pskiskpskisk/Leetcode/tree/master/3110-score-of-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/pskiskpskisk/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3136-valid-word](https://github.com/pskiskpskisk/Leetcode/tree/master/3136-valid-word) |
 | [3174-clear-digits](https://github.com/pskiskpskisk/Leetcode/tree/master/3174-clear-digits) |
 ## Binary Search
 |  |
