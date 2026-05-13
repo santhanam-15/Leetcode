@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/pskiskpskisk/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [3110-score-of-a-string](https://github.com/pskiskpskisk/Leetcode/tree/master/3110-score-of-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/pskiskpskisk/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3174-clear-digits](https://github.com/pskiskpskisk/Leetcode/tree/master/3174-clear-digits) |
 ## Binary Search
 |  |
 | ------- |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/pskiskpskisk/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/pskiskpskisk/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2751-robot-collisions](https://github.com/pskiskpskisk/Leetcode/tree/master/2751-robot-collisions) |
+| [3174-clear-digits](https://github.com/pskiskpskisk/Leetcode/tree/master/3174-clear-digits) |
 ## Stack
 |  |
 | ------- |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/pskiskpskisk/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/pskiskpskisk/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2751-robot-collisions](https://github.com/pskiskpskisk/Leetcode/tree/master/2751-robot-collisions) |
+| [3174-clear-digits](https://github.com/pskiskpskisk/Leetcode/tree/master/3174-clear-digits) |
 ## Recursion
 |  |
 | ------- |
