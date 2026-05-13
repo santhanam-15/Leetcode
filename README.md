@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1137-n-th-tribonacci-number](https://github.com/pskiskpskisk/Leetcode/tree/master/1137-n-th-tribonacci-number) |
+| [3099-harshad-number](https://github.com/pskiskpskisk/Leetcode/tree/master/3099-harshad-number) |
 ## Memoization
 |  |
 | ------- |
