@@ -1,22 +1,17 @@
-import java.util.HashMap;
-import java.util.Map;
-
 class Solution {
     public boolean isGood(int[] nums) {
-
         int n = 0;
         for (int num : nums) {
             n = Math.max(n, num);
         }
-        Map<Integer, Integer> freq = new HashMap<>();
-        for (int num : nums) {
-            freq.put(num, freq.getOrDefault(num, 0) + 1);
+        int[] map=new int[n+1];
+        for (int i : nums) {
+            map[i]++;
+            if(map[i]>1 && i!=n) return false;
         }
-        for (int i = 1; i < n; i++) {
-            if (freq.getOrDefault(i, 0) != 1) {
-                return false;
-            }
+        for(int i=1;i<n;i++){
+            if(map[i]==0) return false;
         }
-        return freq.getOrDefault(n, 0) == 2;
+        return  map[n] == 2;
     }
 }
