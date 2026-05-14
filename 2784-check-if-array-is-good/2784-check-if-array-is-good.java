@@ -7,10 +7,9 @@ class Solution {
         int[] map=new int[n+1];
         for (int i : nums) {
             map[i]++;
-            if(map[i]>1 && i!=n) return false;
         }
         for(int i=1;i<n;i++){
-            if(map[i]==0) return false;
+            if(map[i]==0 || map[i]>1) return false;
         }
         return  map[n] == 2;
     }
