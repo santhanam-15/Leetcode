@@ -2,10 +2,10 @@ class Solution {
     long[] dp;
     int MOD = 1_000_000_007;
     public int numTilings(int n) {
-        dp=new long[n+1];
         if(n<=2){
             return n==0 ? 0 : n;
         }
+        dp=new long[n+1];
         dp[0]=1;
         dp[1]=1;
         dp[2]=2;
