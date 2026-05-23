@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0649-dota2-senate](https://github.com/pskiskpskisk/Leetcode/tree/master/0649-dota2-senate) |
+| [0933-number-of-recent-calls](https://github.com/pskiskpskisk/Leetcode/tree/master/0933-number-of-recent-calls) |
 ## Linked List
 |  |
 | ------- |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/pskiskpskisk/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0933-number-of-recent-calls](https://github.com/pskiskpskisk/Leetcode/tree/master/0933-number-of-recent-calls) |
 | [2336-smallest-number-in-infinite-set](https://github.com/pskiskpskisk/Leetcode/tree/master/2336-smallest-number-in-infinite-set) |
 ## Trie
 |  |
@@ -276,4 +278,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2336-smallest-number-in-infinite-set](https://github.com/pskiskpskisk/Leetcode/tree/master/2336-smallest-number-in-infinite-set) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/pskiskpskisk/Leetcode/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
