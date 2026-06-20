@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/pskiskpskisk/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/pskiskpskisk/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/pskiskpskisk/Leetcode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pskiskpskisk/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/pskiskpskisk/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/pskiskpskisk/Leetcode/tree/master/0088-merge-sorted-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/pskiskpskisk/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/pskiskpskisk/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/pskiskpskisk/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/pskiskpskisk/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pskiskpskisk/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0389-find-the-difference](https://github.com/pskiskpskisk/Leetcode/tree/master/0389-find-the-difference) |
 | [1268-search-suggestions-system](https://github.com/pskiskpskisk/Leetcode/tree/master/1268-search-suggestions-system) |
