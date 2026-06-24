@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/pskiskpskisk/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/pskiskpskisk/Leetcode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/pskiskpskisk/Leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3941-password-strength](https://github.com/pskiskpskisk/Leetcode/tree/master/3941-password-strength) |
 ## Two Pointers
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/pskiskpskisk/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3136-valid-word](https://github.com/pskiskpskisk/Leetcode/tree/master/3136-valid-word) |
 | [3174-clear-digits](https://github.com/pskiskpskisk/Leetcode/tree/master/3174-clear-digits) |
+| [3941-password-strength](https://github.com/pskiskpskisk/Leetcode/tree/master/3941-password-strength) |
 ## Binary Search
 |  |
 | ------- |
