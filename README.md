@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/pskiskpskisk/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/pskiskpskisk/Leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/pskiskpskisk/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2227-encrypt-and-decrypt-strings](https://github.com/pskiskpskisk/Leetcode/tree/master/2227-encrypt-and-decrypt-strings) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/pskiskpskisk/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2352-equal-row-and-column-pairs](https://github.com/pskiskpskisk/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2553-separate-the-digits-in-an-array](https://github.com/pskiskpskisk/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/pskiskpskisk/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/pskiskpskisk/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/pskiskpskisk/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2227-encrypt-and-decrypt-strings](https://github.com/pskiskpskisk/Leetcode/tree/master/2227-encrypt-and-decrypt-strings) |
 | [2336-smallest-number-in-infinite-set](https://github.com/pskiskpskisk/Leetcode/tree/master/2336-smallest-number-in-infinite-set) |
 | [2352-equal-row-and-column-pairs](https://github.com/pskiskpskisk/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2784-check-if-array-is-good](https://github.com/pskiskpskisk/Leetcode/tree/master/2784-check-if-array-is-good) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1268-search-suggestions-system](https://github.com/pskiskpskisk/Leetcode/tree/master/1268-search-suggestions-system) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/pskiskpskisk/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1657-determine-if-two-strings-are-close](https://github.com/pskiskpskisk/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
+| [2227-encrypt-and-decrypt-strings](https://github.com/pskiskpskisk/Leetcode/tree/master/2227-encrypt-and-decrypt-strings) |
 | [2390-removing-stars-from-a-string](https://github.com/pskiskpskisk/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [3110-score-of-a-string](https://github.com/pskiskpskisk/Leetcode/tree/master/3110-score-of-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/pskiskpskisk/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -237,12 +240,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/pskiskpskisk/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0933-number-of-recent-calls](https://github.com/pskiskpskisk/Leetcode/tree/master/0933-number-of-recent-calls) |
+| [2227-encrypt-and-decrypt-strings](https://github.com/pskiskpskisk/Leetcode/tree/master/2227-encrypt-and-decrypt-strings) |
 | [2336-smallest-number-in-infinite-set](https://github.com/pskiskpskisk/Leetcode/tree/master/2336-smallest-number-in-infinite-set) |
 ## Trie
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/pskiskpskisk/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [1268-search-suggestions-system](https://github.com/pskiskpskisk/Leetcode/tree/master/1268-search-suggestions-system) |
+| [2227-encrypt-and-decrypt-strings](https://github.com/pskiskpskisk/Leetcode/tree/master/2227-encrypt-and-decrypt-strings) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
