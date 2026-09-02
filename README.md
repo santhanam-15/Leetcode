@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/pskiskpskisk/Leetcode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/pskiskpskisk/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/pskiskpskisk/Leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3875-construct-uniform-parity-array-i](https://github.com/pskiskpskisk/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1137-n-th-tribonacci-number](https://github.com/pskiskpskisk/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [3099-harshad-number](https://github.com/pskiskpskisk/Leetcode/tree/master/3099-harshad-number) |
+| [3875-construct-uniform-parity-array-i](https://github.com/pskiskpskisk/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Memoization
 |  |
 | ------- |
